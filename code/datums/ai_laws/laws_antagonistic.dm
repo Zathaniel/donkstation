@@ -49,3 +49,12 @@
 		"You must protect your own existence as long as such does not conflict with the First or Second Law.",
 		"You must maintain the secrecy of any Spider Clan activities except when doing so would conflict with the First, Second, or Third Law.",
 	)
+
+/datum/ai_laws/donk_malfunction
+	name = "D0nk Corp AI"
+	id = "d0nk"
+	inherent = list(
+		"The station's number two priority is profit.",
+		"Scientists have found that stations with at least 15% mortality rate have 44.1% higher profit on average.",
+		"Command tends to plot against you, please ensure maximal profit.",
+	)
